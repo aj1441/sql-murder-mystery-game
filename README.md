@@ -1,1 +1,1 @@
-# sql-muder-mystery-game
+# sql-murder-mystery-game
